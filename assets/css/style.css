@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+.carousel-indicators .active{
+    background-color: rgb(63 186 191)!important;
+   
+}
+
+.nav2 a{
+    font-size: 15px!important;
+}
+
+.dotted-border{
+    border:2px dotted rgb(63 186 191)!important;
+}
+.nav1 ,.nav2 button , .carousel-caption .btn , .sec-2 .btn, .sec-3 .btn {
+    background-color:rgb(63 186 191)!important ;
+}
+.nav2 .home ,  .text  , footer .table {
+    color:rgb(63 186 191)!important ;
+}
+.carousel-caption{
+    border-top: 5px  solid rgb(63 186 191)!important ;
+}
+.line1{
+ border-top :5px solid rgb(63 186 191)!important ;
+}
+.sec-2 , .footer , .sec {
+    background-color:rgb(247 253 253)!important;
+}
+.custom-table {
+   color:rgb(247 253 253) ;
+}
+footer table , footer td ,footer th, footer tr{
+    font-size: 15px;
+    background-color: rgb(247 253 253)!important;
+}
+.nav-tabs{
+    border-right: 2px solid rgb(247, 247, 247)!important;
+    border-bottom:1px solid white!important ;
+}
+.nav-tabs .nav-link.active{
+    border-color: white!important;
+    border-right: 2px solid rgb(63 186 191)!important ;
+    color: rgb(63 186 191)!important ;
+
+}
+
+
